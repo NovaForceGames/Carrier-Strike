@@ -133,3 +133,7 @@ clips + radio FX chain already in the game; do not substitute narrated packages.
 - A narrated newscast ("Dyess Test Call", Audio ID 33528) was probed early and **rejected**:
   DVIDS audio assets are mostly narrated packages, unsuitable as clean sound effects — which is
   why all delivered recordings come from natural-sound B-roll video audio tracks instead.
+
+## Action music (v1.13, owner-selected 2026-11-27)
+- `audio/music-action.mp3` — 61 s seamless loop cut from the 143–204 s segment of the owner's YouTube pick "SAVAŞ VE AKSİYON MÜZİKLERİ (Hareketli ve Etkileyici)" (Tasarım Günlüğü, youtu.be/tZomtlrCSa8), loudnorm −14 LUFS. Plays only in combat sections (sector 3–4).
+- RIGHTS STATUS: unknown — the compilation's underlying track rights are not documented. Web-prototype/test use at the owner's direction; a license-clean replacement is required before any store (App Store / Google Play) release.
