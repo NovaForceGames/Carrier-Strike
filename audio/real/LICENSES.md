@@ -137,3 +137,8 @@ clips + radio FX chain already in the game; do not substitute narrated packages.
 ## Action music (v1.13, owner-selected 2026-11-27)
 - `audio/music-action.mp3` — 61 s seamless loop cut from the 143–204 s segment of the owner's YouTube pick "SAVAŞ VE AKSİYON MÜZİKLERİ (Hareketli ve Etkileyici)" (Tasarım Günlüğü, youtu.be/tZomtlrCSa8), loudnorm −14 LUFS. Plays only in combat sections (sector 3–4).
 - RIGHTS STATUS: unknown — the compilation's underlying track rights are not documented. Web-prototype/test use at the owner's direction; a license-clean replacement is required before any store (App Store / Google Play) release.
+
+## Reference audio beds (v1.14, owner-directed 2026-11-27)
+- `audio/battle-amb.mp3` — 75 s loop cut from the owner's warfare reference (youtu.be/L5w7fLRl6CM, 55–130 s), war-zone ambience in sector 4 (lighter in sector 3).
+- `audio/radio-net.mp3` — 71.5 s loop from the owner's radio reference (youtu.be/r9f68lOgUeA), band-passed, plays as background net traffic in sector 4 only.
+- RIGHTS STATUS: not cleared for distribution — the warfare recording is game audio and the radio recording is real-world traffic. Web-prototype/test use at the owner's direction; license-clean replacements required before any store release.
